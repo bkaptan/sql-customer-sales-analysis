@@ -155,6 +155,7 @@ Projede toplam **60+ SQL sorgusu** 4 farklı departman perspektifinden hazırlan
 - Zaman serisi analizleri (LAG/LEAD kullanımı)
 
 ![images](images/66.png)
+![images](images/77.png)
 ---
 
 ## 🛠️ Kullanılan Araçlar & Teknolojiler
