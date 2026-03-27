@@ -61,6 +61,7 @@ Müşteri profil bilgileri:
 - `UnitPrice`: Birim satış fiyatı
 - `IsActive`: Katalog durumu
 
+bkaptan/sql-customer-sales-analysis/images/22.png
 ---
 
 ## 🧠 Kullanılan SQL Teknikleri & Metodolojiler
