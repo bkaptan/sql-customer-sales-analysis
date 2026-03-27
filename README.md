@@ -195,7 +195,7 @@ sql-customer-sales-analysis/
 │   ├── Products.csv
 │   └── Sales.csv
 │
-├── queries/
+├── sales_analysis_results/
 │   └── sales_analysis.sql
 │
 ├── images/
