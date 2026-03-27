@@ -1,0 +1,151 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitCost,UnitPrice,IsActive
+P0001,Kağıt Ürün 1,Kırtasiye,Kağıt,Diversey,922,1603.65,Yes
+P0002,Kağıt Ürün 2,Kırtasiye,Kağıt,Avansas,230,372.04,Yes
+P0003,Kağıt Ürün 3,Kırtasiye,Kağıt,Faber-Castell,1068,1680.39,No
+P0004,Kağıt Ürün 4,Kırtasiye,Kağıt,Avansas,540,699.6,No
+P0005,Kağıt Ürün 5,Kırtasiye,Kağıt,Avansas,1316,1868,Yes
+P0006,Kağıt Ürün 6,Kırtasiye,Kağıt,Diversey,1813,3262.57,Yes
+P0007,Kağıt Ürün 7,Kırtasiye,Kağıt,Canon,1990,2912.84,Yes
+P0008,Kağıt Ürün 8,Kırtasiye,Kağıt,Faber-Castell,1371,1896.3,Yes
+P0009,Kağıt Ürün 9,Kırtasiye,Kağıt,HP,1980,3390.77,Yes
+P0010,Kağıt Ürün 10,Kırtasiye,Kağıt,Faber-Castell,282,407.36,Yes
+P0011,Kağıt Ürün 11,Kırtasiye,Kağıt,Diversey,1819,2249.43,Yes
+P0012,Kağıt Ürün 12,Kırtasiye,Kağıt,HP,267,422.43,No
+P0013,Kağıt Ürün 13,Kırtasiye,Kağıt,Avansas,1526,2510.14,No
+P0014,Kağıt Ürün 14,Kırtasiye,Kağıt,Faber-Castell,1358,2062.39,Yes
+P0015,Kağıt Ürün 15,Kırtasiye,Kağıt,Diversey,701,895.65,No
+P0016,Kalem Ürün 16,Kırtasiye,Kalem,Faber-Castell,1100,1372.4,Yes
+P0017,Kalem Ürün 17,Kırtasiye,Kalem,Faber-Castell,1560,2588.11,Yes
+P0018,Kalem Ürün 18,Kırtasiye,Kalem,Avansas,1119,1530.24,Yes
+P0019,Kalem Ürün 19,Kırtasiye,Kalem,Faber-Castell,997,1197.46,Yes
+P0020,Kalem Ürün 20,Kırtasiye,Kalem,Faber-Castell,1997,2828.37,No
+P0021,Kalem Ürün 21,Kırtasiye,Kalem,Diversey,794,1133.11,Yes
+P0022,Kalem Ürün 22,Kırtasiye,Kalem,Canon,1970,3140.67,Yes
+P0023,Kalem Ürün 23,Kırtasiye,Kalem,HP,1500,2152.97,No
+P0024,Kalem Ürün 24,Kırtasiye,Kalem,Diversey,1420,2327.43,No
+P0025,Kalem Ürün 25,Kırtasiye,Kalem,HP,928,1561.13,Yes
+P0026,Kalem Ürün 26,Kırtasiye,Kalem,Faber-Castell,1171,1788.37,Yes
+P0027,Kalem Ürün 27,Kırtasiye,Kalem,Avansas,1863,2658.44,Yes
+P0028,Kalem Ürün 28,Kırtasiye,Kalem,Diversey,201,336.43,Yes
+P0029,Kalem Ürün 29,Kırtasiye,Kalem,Avansas,744,1135.55,Yes
+P0030,Kalem Ürün 30,Kırtasiye,Kalem,HP,1494,2551.44,Yes
+P0031,Defter Ürün 31,Kırtasiye,Defter,Diversey,1177,1736.24,No
+P0032,Defter Ürün 32,Kırtasiye,Defter,HP,1240,2019.46,Yes
+P0033,Defter Ürün 33,Kırtasiye,Defter,HP,1740,2466.24,Yes
+P0034,Defter Ürün 34,Kırtasiye,Defter,Faber-Castell,1865,3047.09,Yes
+P0035,Defter Ürün 35,Kırtasiye,Defter,Diversey,404,616.57,Yes
+P0036,Defter Ürün 36,Kırtasiye,Defter,Avansas,1810,2757.37,Yes
+P0037,Defter Ürün 37,Kırtasiye,Defter,HP,1911,2623.23,Yes
+P0038,Defter Ürün 38,Kırtasiye,Defter,Canon,296,376.24,Yes
+P0039,Defter Ürün 39,Kırtasiye,Defter,Diversey,916,1574.39,Yes
+P0040,Defter Ürün 40,Kırtasiye,Defter,Avansas,1623,1989.31,Yes
+P0041,Defter Ürün 41,Kırtasiye,Defter,Diversey,836,1108.51,Yes
+P0042,Defter Ürün 42,Kırtasiye,Defter,Faber-Castell,133,178.57,Yes
+P0043,Defter Ürün 43,Kırtasiye,Defter,Avansas,1287,2175.87,Yes
+P0044,Defter Ürün 44,Kırtasiye,Defter,Diversey,402,679.3,Yes
+P0045,Defter Ürün 45,Kırtasiye,Defter,Diversey,1770,3158.26,No
+P0046,Masa Ürün 46,Ofis Mobilyası,Masa,Canon,984,1197.91,Yes
+P0047,Masa Ürün 47,Ofis Mobilyası,Masa,HP,1397,1690.15,Yes
+P0048,Masa Ürün 48,Ofis Mobilyası,Masa,HP,1738,2239.75,Yes
+P0049,Masa Ürün 49,Ofis Mobilyası,Masa,Avansas,1734,2125.41,No
+P0050,Masa Ürün 50,Ofis Mobilyası,Masa,Diversey,135,202.36,Yes
+P0051,Masa Ürün 51,Ofis Mobilyası,Masa,Diversey,175,212.43,No
+P0052,Masa Ürün 52,Ofis Mobilyası,Masa,Canon,379,629.14,Yes
+P0053,Masa Ürün 53,Ofis Mobilyası,Masa,Diversey,375,497.11,Yes
+P0054,Masa Ürün 54,Ofis Mobilyası,Masa,HP,948,1647.1,Yes
+P0055,Masa Ürün 55,Ofis Mobilyası,Masa,Avansas,296,531.1,Yes
+P0056,Masa Ürün 56,Ofis Mobilyası,Masa,Diversey,612,1090.65,Yes
+P0057,Masa Ürün 57,Ofis Mobilyası,Masa,Avansas,1665,2920.03,No
+P0058,Masa Ürün 58,Ofis Mobilyası,Masa,Canon,1770,3028.9,No
+P0059,Masa Ürün 59,Ofis Mobilyası,Masa,Diversey,133,207.08,No
+P0060,Masa Ürün 60,Ofis Mobilyası,Masa,HP,1660,2773.5,Yes
+P0061,Sandalye Ürün 61,Ofis Mobilyası,Sandalye,Faber-Castell,398,620.48,Yes
+P0062,Sandalye Ürün 62,Ofis Mobilyası,Sandalye,HP,84,110.31,Yes
+P0063,Sandalye Ürün 63,Ofis Mobilyası,Sandalye,Faber-Castell,82,132.73,No
+P0064,Sandalye Ürün 64,Ofis Mobilyası,Sandalye,Canon,1880,2969.12,No
+P0065,Sandalye Ürün 65,Ofis Mobilyası,Sandalye,Faber-Castell,433,588.65,Yes
+P0066,Sandalye Ürün 66,Ofis Mobilyası,Sandalye,Canon,458,710.29,Yes
+P0067,Sandalye Ürün 67,Ofis Mobilyası,Sandalye,Diversey,1350,1678.76,Yes
+P0068,Sandalye Ürün 68,Ofis Mobilyası,Sandalye,Canon,993,1786.88,No
+P0069,Sandalye Ürün 69,Ofis Mobilyası,Sandalye,Faber-Castell,1499,2147.24,Yes
+P0070,Sandalye Ürün 70,Ofis Mobilyası,Sandalye,Diversey,1263,1649.74,Yes
+P0071,Sandalye Ürün 71,Ofis Mobilyası,Sandalye,Canon,797,1375.32,No
+P0072,Sandalye Ürün 72,Ofis Mobilyası,Sandalye,Avansas,1781,2139.67,No
+P0073,Sandalye Ürün 73,Ofis Mobilyası,Sandalye,Canon,11,16.19,Yes
+P0074,Sandalye Ürün 74,Ofis Mobilyası,Sandalye,Diversey,791,1361.51,Yes
+P0075,Sandalye Ürün 75,Ofis Mobilyası,Sandalye,Canon,925,1620.96,Yes
+P0076,Dolap Ürün 76,Ofis Mobilyası,Dolap,Canon,1543,1873.62,Yes
+P0077,Dolap Ürün 77,Ofis Mobilyası,Dolap,Diversey,282,386.37,Yes
+P0078,Dolap Ürün 78,Ofis Mobilyası,Dolap,HP,1793,2937.07,Yes
+P0079,Dolap Ürün 79,Ofis Mobilyası,Dolap,Avansas,1879,2433.49,Yes
+P0080,Dolap Ürün 80,Ofis Mobilyası,Dolap,Diversey,1549,2475.18,Yes
+P0081,Dolap Ürün 81,Ofis Mobilyası,Dolap,HP,455,727.68,Yes
+P0082,Dolap Ürün 82,Ofis Mobilyası,Dolap,Avansas,1952,2412.48,Yes
+P0083,Dolap Ürün 83,Ofis Mobilyası,Dolap,Canon,225,271.67,No
+P0084,Dolap Ürün 84,Ofis Mobilyası,Dolap,HP,1195,1797.29,Yes
+P0085,Dolap Ürün 85,Ofis Mobilyası,Dolap,HP,1647,2669.63,Yes
+P0086,Dolap Ürün 86,Ofis Mobilyası,Dolap,HP,1629,2651.75,Yes
+P0087,Dolap Ürün 87,Ofis Mobilyası,Dolap,Diversey,122,176.39,Yes
+P0088,Dolap Ürün 88,Ofis Mobilyası,Dolap,Diversey,1613,2634.16,Yes
+P0089,Dolap Ürün 89,Ofis Mobilyası,Dolap,HP,252,307.93,No
+P0090,Dolap Ürün 90,Ofis Mobilyası,Dolap,Diversey,1937,3065.46,Yes
+P0091,Yazıcı Ürün 91,Elektronik,Yazıcı,Diversey,43,69.35,Yes
+P0092,Yazıcı Ürün 92,Elektronik,Yazıcı,HP,1977,3304.07,Yes
+P0093,Yazıcı Ürün 93,Elektronik,Yazıcı,Canon,1748,2373.68,Yes
+P0094,Yazıcı Ürün 94,Elektronik,Yazıcı,Faber-Castell,1910,3196.94,Yes
+P0095,Yazıcı Ürün 95,Elektronik,Yazıcı,HP,1289,2101.8,Yes
+P0096,Yazıcı Ürün 96,Elektronik,Yazıcı,Avansas,1843,2726.81,Yes
+P0097,Yazıcı Ürün 97,Elektronik,Yazıcı,Avansas,780,1019.68,Yes
+P0098,Yazıcı Ürün 98,Elektronik,Yazıcı,HP,817,1326.53,Yes
+P0099,Yazıcı Ürün 99,Elektronik,Yazıcı,Canon,1569,2714.56,Yes
+P0100,Yazıcı Ürün 100,Elektronik,Yazıcı,HP,1842,2534.51,Yes
+P0101,Yazıcı Ürün 101,Elektronik,Yazıcı,Canon,1692,2333.39,No
+P0102,Yazıcı Ürün 102,Elektronik,Yazıcı,Faber-Castell,1602,2044.75,Yes
+P0103,Yazıcı Ürün 103,Elektronik,Yazıcı,Avansas,197,267.73,Yes
+P0104,Yazıcı Ürün 104,Elektronik,Yazıcı,Avansas,1860,2302.25,Yes
+P0105,Yazıcı Ürün 105,Elektronik,Yazıcı,Diversey,261,355.06,Yes
+P0106,Monitör Ürün 106,Elektronik,Monitör,HP,241,407.8,Yes
+P0107,Monitör Ürün 107,Elektronik,Monitör,HP,1414,2217.11,Yes
+P0108,Monitör Ürün 108,Elektronik,Monitör,HP,1633,2361.62,Yes
+P0109,Monitör Ürün 109,Elektronik,Monitör,Canon,1682,2949.5,Yes
+P0110,Monitör Ürün 110,Elektronik,Monitör,Canon,938,1223.52,No
+P0111,Monitör Ürün 111,Elektronik,Monitör,Avansas,249,342.11,Yes
+P0112,Monitör Ürün 112,Elektronik,Monitör,Diversey,1714,2702.36,Yes
+P0113,Monitör Ürün 113,Elektronik,Monitör,Avansas,1997,2702.93,No
+P0114,Monitör Ürün 114,Elektronik,Monitör,Faber-Castell,584,772.71,No
+P0115,Monitör Ürün 115,Elektronik,Monitör,Faber-Castell,237,314.99,Yes
+P0116,Monitör Ürün 116,Elektronik,Monitör,HP,103,179.42,Yes
+P0117,Monitör Ürün 117,Elektronik,Monitör,Faber-Castell,1797,2271.93,Yes
+P0118,Monitör Ürün 118,Elektronik,Monitör,Faber-Castell,461,611.59,No
+P0119,Monitör Ürün 119,Elektronik,Monitör,Diversey,860,1216.66,Yes
+P0120,Monitör Ürün 120,Elektronik,Monitör,Diversey,310,537.06,No
+P0121,Kimyasal Ürün 121,Temizlik,Kimyasal,Faber-Castell,156,205.61,No
+P0122,Kimyasal Ürün 122,Temizlik,Kimyasal,Avansas,1718,2395.77,Yes
+P0123,Kimyasal Ürün 123,Temizlik,Kimyasal,Faber-Castell,275,479.78,No
+P0124,Kimyasal Ürün 124,Temizlik,Kimyasal,Diversey,1636,2697.12,Yes
+P0125,Kimyasal Ürün 125,Temizlik,Kimyasal,HP,649,971.57,Yes
+P0126,Kimyasal Ürün 126,Temizlik,Kimyasal,Canon,1997,2826.83,Yes
+P0127,Kimyasal Ürün 127,Temizlik,Kimyasal,Canon,539,821.32,Yes
+P0128,Kimyasal Ürün 128,Temizlik,Kimyasal,Canon,1508,2483.45,No
+P0129,Kimyasal Ürün 129,Temizlik,Kimyasal,HP,1216,1859.81,No
+P0130,Kimyasal Ürün 130,Temizlik,Kimyasal,HP,1665,2731.29,No
+P0131,Kimyasal Ürün 131,Temizlik,Kimyasal,Canon,1440,1994.5,Yes
+P0132,Kimyasal Ürün 132,Temizlik,Kimyasal,Faber-Castell,1125,1842.26,Yes
+P0133,Kimyasal Ürün 133,Temizlik,Kimyasal,HP,486,809.7,Yes
+P0134,Kimyasal Ürün 134,Temizlik,Kimyasal,Avansas,1158,1783.47,Yes
+P0135,Kimyasal Ürün 135,Temizlik,Kimyasal,Diversey,1839,3095.52,Yes
+P0136,Kağıt Ürünleri Ürün 136,Temizlik,Kağıt Ürünleri,HP,1919,2659.57,Yes
+P0137,Kağıt Ürünleri Ürün 137,Temizlik,Kağıt Ürünleri,Avansas,1507,2309.18,Yes
+P0138,Kağıt Ürünleri Ürün 138,Temizlik,Kağıt Ürünleri,Canon,1106,1680.59,Yes
+P0139,Kağıt Ürünleri Ürün 139,Temizlik,Kağıt Ürünleri,Faber-Castell,478,752.56,Yes
+P0140,Kağıt Ürünleri Ürün 140,Temizlik,Kağıt Ürünleri,Avansas,944,1152.91,No
+P0141,Kağıt Ürünleri Ürün 141,Temizlik,Kağıt Ürünleri,Avansas,763,990.13,No
+P0142,Kağıt Ürünleri Ürün 142,Temizlik,Kağıt Ürünleri,Canon,1368,2225.45,Yes
+P0143,Kağıt Ürünleri Ürün 143,Temizlik,Kağıt Ürünleri,Faber-Castell,962,1658.11,Yes
+P0144,Kağıt Ürünleri Ürün 144,Temizlik,Kağıt Ürünleri,Avansas,1907,3105.89,No
+P0145,Kağıt Ürünleri Ürün 145,Temizlik,Kağıt Ürünleri,Diversey,955,1406.85,Yes
+P0146,Kağıt Ürünleri Ürün 146,Temizlik,Kağıt Ürünleri,Diversey,1874,3161.89,Yes
+P0147,Kağıt Ürünleri Ürün 147,Temizlik,Kağıt Ürünleri,HP,544,730.85,Yes
+P0148,Kağıt Ürünleri Ürün 148,Temizlik,Kağıt Ürünleri,Canon,940,1272.4,No
+P0149,Kağıt Ürünleri Ürün 149,Temizlik,Kağıt Ürünleri,Faber-Castell,1872,3279.71,Yes
+P0150,Kağıt Ürünleri Ürün 150,Temizlik,Kağıt Ürünleri,Canon,104,181.64,Yes

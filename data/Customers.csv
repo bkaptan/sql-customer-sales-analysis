@@ -1,0 +1,401 @@
+CustomerID,CustomerName,CustomerType,Sector,City,Region,SignupDate,IsActive
+C0001,Müşteri 1,KOBİ,Lojistik,İzmir,Ege,2021-11-26 00:00:00,Yes
+C0002,Müşteri 2,KOBİ,IT,Ankara,İç Anadolu,2022-03-30 00:00:00,No
+C0003,Müşteri 3,B2B,Ofis,Antalya,Akdeniz,2023-11-24 00:00:00,Yes
+C0004,Müşteri 4,B2B,Lojistik,İstanbul,Marmara,2023-03-03 00:00:00,No
+C0005,Müşteri 5,KOBİ,IT,İzmir,Ege,2022-02-15 00:00:00,Yes
+C0006,Müşteri 6,KOBİ,Eğitim,Bursa,Marmara,2023-01-08 00:00:00,Yes
+C0007,Müşteri 7,KOBİ,Eğitim,Ankara,İç Anadolu,2021-10-16 00:00:00,Yes
+C0008,Müşteri 8,Kurumsal,IT,Antalya,Akdeniz,2022-10-15 00:00:00,No
+C0009,Müşteri 9,B2B,Lojistik,İzmir,Ege,2021-08-28 00:00:00,Yes
+C0010,Müşteri 10,B2B,Ofis,İzmir,Ege,2022-08-28 00:00:00,Yes
+C0011,Müşteri 11,B2B,Sağlık,Ankara,İç Anadolu,2021-07-08 00:00:00,No
+C0012,Müşteri 12,KOBİ,Eğitim,Antalya,Akdeniz,2023-03-10 00:00:00,Yes
+C0013,Müşteri 13,Kurumsal,Ofis,İzmir,Ege,2022-05-04 00:00:00,Yes
+C0014,Müşteri 14,KOBİ,Ofis,İzmir,Ege,2021-05-09 00:00:00,Yes
+C0015,Müşteri 15,B2B,Lojistik,İstanbul,Marmara,2023-04-15 00:00:00,Yes
+C0016,Müşteri 16,Kurumsal,Sağlık,Ankara,İç Anadolu,2021-11-27 00:00:00,Yes
+C0017,Müşteri 17,Kurumsal,Ofis,Ankara,İç Anadolu,2022-12-02 00:00:00,Yes
+C0018,Müşteri 18,B2B,Sağlık,İstanbul,Marmara,2023-08-08 00:00:00,Yes
+C0019,Müşteri 19,Kurumsal,IT,İstanbul,Marmara,2021-10-23 00:00:00,Yes
+C0020,Müşteri 20,KOBİ,Ofis,Ankara,İç Anadolu,2023-01-02 00:00:00,Yes
+C0021,Müşteri 21,Kurumsal,Sağlık,İstanbul,Marmara,2022-03-05 00:00:00,No
+C0022,Müşteri 22,KOBİ,Eğitim,İstanbul,Marmara,2021-11-21 00:00:00,Yes
+C0023,Müşteri 23,KOBİ,IT,Bursa,Marmara,2024-04-14 00:00:00,Yes
+C0024,Müşteri 24,B2B,IT,Bursa,Marmara,2023-05-21 00:00:00,Yes
+C0025,Müşteri 25,Kurumsal,Ofis,Antalya,Akdeniz,2023-04-07 00:00:00,Yes
+C0026,Müşteri 26,Kurumsal,Ofis,Antalya,Akdeniz,2022-07-15 00:00:00,Yes
+C0027,Müşteri 27,Kurumsal,Lojistik,Adana,Akdeniz,2023-07-17 00:00:00,Yes
+C0028,Müşteri 28,B2B,Ofis,Adana,Akdeniz,2021-10-09 00:00:00,Yes
+C0029,Müşteri 29,Kurumsal,Lojistik,Bursa,Marmara,2023-08-14 00:00:00,Yes
+C0030,Müşteri 30,Kurumsal,IT,İstanbul,Marmara,2023-05-21 00:00:00,Yes
+C0031,Müşteri 31,Kurumsal,Eğitim,İstanbul,Marmara,2021-03-28 00:00:00,Yes
+C0032,Müşteri 32,KOBİ,IT,İzmir,Ege,2022-07-23 00:00:00,Yes
+C0033,Müşteri 33,KOBİ,Ofis,Bursa,Marmara,2021-05-08 00:00:00,Yes
+C0034,Müşteri 34,B2B,Sağlık,İzmir,Ege,2021-02-10 00:00:00,Yes
+C0035,Müşteri 35,Kurumsal,Eğitim,İstanbul,Marmara,2023-07-17 00:00:00,Yes
+C0036,Müşteri 36,Kurumsal,Sağlık,Antalya,Akdeniz,2021-04-20 00:00:00,No
+C0037,Müşteri 37,KOBİ,Lojistik,İzmir,Ege,2023-03-16 00:00:00,Yes
+C0038,Müşteri 38,Kurumsal,Sağlık,Antalya,Akdeniz,2022-02-25 00:00:00,Yes
+C0039,Müşteri 39,B2B,Ofis,İzmir,Ege,2022-09-21 00:00:00,No
+C0040,Müşteri 40,B2B,Ofis,İstanbul,Marmara,2023-10-07 00:00:00,No
+C0041,Müşteri 41,B2B,Sağlık,İstanbul,Marmara,2021-09-01 00:00:00,Yes
+C0042,Müşteri 42,B2B,Ofis,Antalya,Akdeniz,2021-12-29 00:00:00,No
+C0043,Müşteri 43,KOBİ,Eğitim,Ankara,İç Anadolu,2023-02-01 00:00:00,Yes
+C0044,Müşteri 44,B2B,IT,Ankara,İç Anadolu,2023-05-18 00:00:00,Yes
+C0045,Müşteri 45,B2B,Lojistik,Bursa,Marmara,2023-08-15 00:00:00,Yes
+C0046,Müşteri 46,KOBİ,Sağlık,Bursa,Marmara,2021-06-26 00:00:00,Yes
+C0047,Müşteri 47,B2B,IT,Ankara,İç Anadolu,2021-06-02 00:00:00,No
+C0048,Müşteri 48,B2B,Sağlık,İstanbul,Marmara,2023-01-05 00:00:00,Yes
+C0049,Müşteri 49,B2B,Ofis,Ankara,İç Anadolu,2022-08-23 00:00:00,No
+C0050,Müşteri 50,Kurumsal,Ofis,Ankara,İç Anadolu,2023-08-13 00:00:00,No
+C0051,Müşteri 51,KOBİ,Eğitim,Antalya,Akdeniz,2023-09-17 00:00:00,No
+C0052,Müşteri 52,KOBİ,IT,İstanbul,Marmara,2021-08-16 00:00:00,Yes
+C0053,Müşteri 53,B2B,IT,Antalya,Akdeniz,2022-03-13 00:00:00,No
+C0054,Müşteri 54,B2B,IT,İzmir,Ege,2022-03-11 00:00:00,Yes
+C0055,Müşteri 55,KOBİ,Eğitim,Adana,Akdeniz,2023-03-20 00:00:00,No
+C0056,Müşteri 56,B2B,Eğitim,Ankara,İç Anadolu,2023-09-06 00:00:00,No
+C0057,Müşteri 57,Kurumsal,Ofis,Ankara,İç Anadolu,2023-01-19 00:00:00,Yes
+C0058,Müşteri 58,Kurumsal,Sağlık,Bursa,Marmara,2024-03-25 00:00:00,No
+C0059,Müşteri 59,B2B,Ofis,İzmir,Ege,2021-07-28 00:00:00,Yes
+C0060,Müşteri 60,B2B,Lojistik,Adana,Akdeniz,2022-12-14 00:00:00,Yes
+C0061,Müşteri 61,KOBİ,Eğitim,İzmir,Ege,2022-10-20 00:00:00,No
+C0062,Müşteri 62,B2B,IT,Adana,Akdeniz,2021-04-28 00:00:00,No
+C0063,Müşteri 63,KOBİ,IT,Adana,Akdeniz,2024-03-07 00:00:00,Yes
+C0064,Müşteri 64,KOBİ,IT,Antalya,Akdeniz,2022-03-31 00:00:00,Yes
+C0065,Müşteri 65,B2B,Ofis,Antalya,Akdeniz,2022-04-18 00:00:00,Yes
+C0066,Müşteri 66,Kurumsal,Lojistik,Adana,Akdeniz,2023-01-22 00:00:00,Yes
+C0067,Müşteri 67,KOBİ,Sağlık,Adana,Akdeniz,2023-08-17 00:00:00,Yes
+C0068,Müşteri 68,Kurumsal,IT,Bursa,Marmara,2024-03-18 00:00:00,Yes
+C0069,Müşteri 69,B2B,Eğitim,İzmir,Ege,2021-08-14 00:00:00,Yes
+C0070,Müşteri 70,Kurumsal,Ofis,Bursa,Marmara,2022-06-22 00:00:00,Yes
+C0071,Müşteri 71,KOBİ,Lojistik,Antalya,Akdeniz,2023-11-21 00:00:00,Yes
+C0072,Müşteri 72,KOBİ,IT,Adana,Akdeniz,2022-01-21 00:00:00,No
+C0073,Müşteri 73,KOBİ,IT,Adana,Akdeniz,2022-01-17 00:00:00,Yes
+C0074,Müşteri 74,KOBİ,Eğitim,Ankara,İç Anadolu,2023-10-11 00:00:00,Yes
+C0075,Müşteri 75,KOBİ,Eğitim,Antalya,Akdeniz,2023-08-24 00:00:00,Yes
+C0076,Müşteri 76,KOBİ,Eğitim,Bursa,Marmara,2024-02-11 00:00:00,Yes
+C0077,Müşteri 77,B2B,Ofis,Ankara,İç Anadolu,2023-07-21 00:00:00,Yes
+C0078,Müşteri 78,B2B,Eğitim,İzmir,Ege,2022-04-09 00:00:00,Yes
+C0079,Müşteri 79,Kurumsal,IT,İstanbul,Marmara,2022-10-04 00:00:00,Yes
+C0080,Müşteri 80,Kurumsal,IT,Adana,Akdeniz,2021-05-13 00:00:00,Yes
+C0081,Müşteri 81,KOBİ,Eğitim,Adana,Akdeniz,2021-09-19 00:00:00,No
+C0082,Müşteri 82,B2B,Eğitim,Ankara,İç Anadolu,2023-03-10 00:00:00,Yes
+C0083,Müşteri 83,Kurumsal,Lojistik,Antalya,Akdeniz,2022-03-09 00:00:00,Yes
+C0084,Müşteri 84,B2B,Ofis,Adana,Akdeniz,2023-01-24 00:00:00,No
+C0085,Müşteri 85,Kurumsal,Sağlık,Antalya,Akdeniz,2024-01-05 00:00:00,Yes
+C0086,Müşteri 86,KOBİ,Lojistik,Bursa,Marmara,2024-02-24 00:00:00,Yes
+C0087,Müşteri 87,Kurumsal,Ofis,Ankara,İç Anadolu,2021-05-09 00:00:00,Yes
+C0088,Müşteri 88,B2B,IT,İstanbul,Marmara,2022-03-15 00:00:00,Yes
+C0089,Müşteri 89,Kurumsal,IT,Ankara,İç Anadolu,2022-09-12 00:00:00,Yes
+C0090,Müşteri 90,Kurumsal,Lojistik,İzmir,Ege,2023-09-07 00:00:00,Yes
+C0091,Müşteri 91,B2B,Eğitim,İzmir,Ege,2021-11-15 00:00:00,No
+C0092,Müşteri 92,KOBİ,Ofis,İstanbul,Marmara,2022-05-10 00:00:00,Yes
+C0093,Müşteri 93,Kurumsal,IT,Bursa,Marmara,2024-01-11 00:00:00,Yes
+C0094,Müşteri 94,KOBİ,Lojistik,İzmir,Ege,2023-03-15 00:00:00,Yes
+C0095,Müşteri 95,KOBİ,Eğitim,Ankara,İç Anadolu,2021-07-29 00:00:00,Yes
+C0096,Müşteri 96,KOBİ,Lojistik,Ankara,İç Anadolu,2023-03-07 00:00:00,Yes
+C0097,Müşteri 97,Kurumsal,Sağlık,Adana,Akdeniz,2021-01-27 00:00:00,Yes
+C0098,Müşteri 98,Kurumsal,Lojistik,Bursa,Marmara,2021-05-13 00:00:00,Yes
+C0099,Müşteri 99,KOBİ,IT,Bursa,Marmara,2021-05-29 00:00:00,Yes
+C0100,Müşteri 100,KOBİ,Sağlık,İstanbul,Marmara,2023-08-23 00:00:00,No
+C0101,Müşteri 101,Kurumsal,Ofis,Antalya,Akdeniz,2022-04-23 00:00:00,Yes
+C0102,Müşteri 102,KOBİ,Eğitim,Antalya,Akdeniz,2022-06-01 00:00:00,No
+C0103,Müşteri 103,B2B,Ofis,Ankara,İç Anadolu,2023-06-10 00:00:00,No
+C0104,Müşteri 104,Kurumsal,Ofis,Antalya,Akdeniz,2022-01-14 00:00:00,Yes
+C0105,Müşteri 105,B2B,Lojistik,Ankara,İç Anadolu,2021-02-04 00:00:00,No
+C0106,Müşteri 106,B2B,Ofis,Ankara,İç Anadolu,2021-08-24 00:00:00,Yes
+C0107,Müşteri 107,KOBİ,Eğitim,İstanbul,Marmara,2024-01-08 00:00:00,Yes
+C0108,Müşteri 108,B2B,IT,Bursa,Marmara,2023-09-30 00:00:00,Yes
+C0109,Müşteri 109,Kurumsal,Ofis,Antalya,Akdeniz,2022-02-24 00:00:00,Yes
+C0110,Müşteri 110,Kurumsal,Lojistik,Adana,Akdeniz,2023-09-16 00:00:00,Yes
+C0111,Müşteri 111,Kurumsal,Lojistik,Adana,Akdeniz,2022-05-22 00:00:00,No
+C0112,Müşteri 112,KOBİ,Eğitim,Adana,Akdeniz,2023-10-02 00:00:00,Yes
+C0113,Müşteri 113,B2B,Lojistik,Bursa,Marmara,2021-08-30 00:00:00,Yes
+C0114,Müşteri 114,Kurumsal,Lojistik,Adana,Akdeniz,2021-06-03 00:00:00,No
+C0115,Müşteri 115,KOBİ,IT,Antalya,Akdeniz,2022-09-29 00:00:00,Yes
+C0116,Müşteri 116,KOBİ,Ofis,Antalya,Akdeniz,2021-04-25 00:00:00,Yes
+C0117,Müşteri 117,KOBİ,Eğitim,Bursa,Marmara,2021-03-06 00:00:00,Yes
+C0118,Müşteri 118,B2B,Sağlık,Ankara,İç Anadolu,2022-02-02 00:00:00,No
+C0119,Müşteri 119,KOBİ,Sağlık,Bursa,Marmara,2022-10-09 00:00:00,Yes
+C0120,Müşteri 120,Kurumsal,Lojistik,Ankara,İç Anadolu,2021-12-16 00:00:00,Yes
+C0121,Müşteri 121,Kurumsal,Eğitim,İzmir,Ege,2021-03-31 00:00:00,Yes
+C0122,Müşteri 122,B2B,Eğitim,İzmir,Ege,2022-12-11 00:00:00,Yes
+C0123,Müşteri 123,KOBİ,Lojistik,İstanbul,Marmara,2021-01-05 00:00:00,Yes
+C0124,Müşteri 124,KOBİ,Sağlık,Adana,Akdeniz,2021-02-18 00:00:00,Yes
+C0125,Müşteri 125,B2B,Ofis,Antalya,Akdeniz,2022-06-10 00:00:00,No
+C0126,Müşteri 126,KOBİ,Eğitim,Bursa,Marmara,2022-05-05 00:00:00,No
+C0127,Müşteri 127,Kurumsal,Ofis,Ankara,İç Anadolu,2021-09-14 00:00:00,Yes
+C0128,Müşteri 128,B2B,Eğitim,İzmir,Ege,2021-04-27 00:00:00,Yes
+C0129,Müşteri 129,B2B,Sağlık,İzmir,Ege,2022-05-09 00:00:00,Yes
+C0130,Müşteri 130,Kurumsal,Eğitim,Bursa,Marmara,2023-10-23 00:00:00,Yes
+C0131,Müşteri 131,Kurumsal,Lojistik,İzmir,Ege,2023-05-24 00:00:00,Yes
+C0132,Müşteri 132,KOBİ,IT,Adana,Akdeniz,2022-04-05 00:00:00,No
+C0133,Müşteri 133,KOBİ,Sağlık,Adana,Akdeniz,2023-08-02 00:00:00,Yes
+C0134,Müşteri 134,B2B,Lojistik,Ankara,İç Anadolu,2023-08-25 00:00:00,Yes
+C0135,Müşteri 135,KOBİ,Lojistik,Antalya,Akdeniz,2021-05-06 00:00:00,Yes
+C0136,Müşteri 136,Kurumsal,Sağlık,Adana,Akdeniz,2023-06-29 00:00:00,Yes
+C0137,Müşteri 137,KOBİ,Eğitim,Adana,Akdeniz,2022-08-04 00:00:00,Yes
+C0138,Müşteri 138,Kurumsal,Sağlık,Bursa,Marmara,2022-08-05 00:00:00,Yes
+C0139,Müşteri 139,KOBİ,Eğitim,İzmir,Ege,2022-12-28 00:00:00,Yes
+C0140,Müşteri 140,Kurumsal,Lojistik,İstanbul,Marmara,2023-03-22 00:00:00,Yes
+C0141,Müşteri 141,KOBİ,IT,Ankara,İç Anadolu,2023-02-04 00:00:00,Yes
+C0142,Müşteri 142,Kurumsal,Sağlık,Antalya,Akdeniz,2022-09-13 00:00:00,Yes
+C0143,Müşteri 143,Kurumsal,Lojistik,İzmir,Ege,2021-05-04 00:00:00,Yes
+C0144,Müşteri 144,B2B,IT,Antalya,Akdeniz,2021-12-27 00:00:00,No
+C0145,Müşteri 145,B2B,Lojistik,Adana,Akdeniz,2023-01-12 00:00:00,Yes
+C0146,Müşteri 146,KOBİ,Ofis,İstanbul,Marmara,2023-12-26 00:00:00,Yes
+C0147,Müşteri 147,Kurumsal,Eğitim,İzmir,Ege,2023-08-11 00:00:00,No
+C0148,Müşteri 148,B2B,Lojistik,Antalya,Akdeniz,2022-07-20 00:00:00,Yes
+C0149,Müşteri 149,Kurumsal,IT,İstanbul,Marmara,2023-03-10 00:00:00,Yes
+C0150,Müşteri 150,Kurumsal,Lojistik,İzmir,Ege,2022-12-11 00:00:00,Yes
+C0151,Müşteri 151,KOBİ,Sağlık,İstanbul,Marmara,2023-02-03 00:00:00,Yes
+C0152,Müşteri 152,KOBİ,IT,Adana,Akdeniz,2023-08-29 00:00:00,Yes
+C0153,Müşteri 153,B2B,Ofis,Adana,Akdeniz,2021-05-28 00:00:00,No
+C0154,Müşteri 154,B2B,Lojistik,Antalya,Akdeniz,2021-04-04 00:00:00,Yes
+C0155,Müşteri 155,KOBİ,Sağlık,Antalya,Akdeniz,2023-09-29 00:00:00,Yes
+C0156,Müşteri 156,Kurumsal,Sağlık,İstanbul,Marmara,2022-10-23 00:00:00,Yes
+C0157,Müşteri 157,B2B,Ofis,İzmir,Ege,2022-11-05 00:00:00,Yes
+C0158,Müşteri 158,B2B,Lojistik,Adana,Akdeniz,2023-10-07 00:00:00,No
+C0159,Müşteri 159,B2B,Sağlık,Ankara,İç Anadolu,2023-04-12 00:00:00,No
+C0160,Müşteri 160,Kurumsal,Lojistik,İzmir,Ege,2021-10-20 00:00:00,Yes
+C0161,Müşteri 161,Kurumsal,Ofis,Bursa,Marmara,2022-10-13 00:00:00,Yes
+C0162,Müşteri 162,KOBİ,Sağlık,İstanbul,Marmara,2021-07-04 00:00:00,No
+C0163,Müşteri 163,Kurumsal,Ofis,Ankara,İç Anadolu,2024-04-06 00:00:00,Yes
+C0164,Müşteri 164,KOBİ,Lojistik,Ankara,İç Anadolu,2022-12-28 00:00:00,Yes
+C0165,Müşteri 165,KOBİ,IT,Ankara,İç Anadolu,2022-11-12 00:00:00,Yes
+C0166,Müşteri 166,B2B,Sağlık,Adana,Akdeniz,2023-06-04 00:00:00,Yes
+C0167,Müşteri 167,B2B,Lojistik,Bursa,Marmara,2022-12-12 00:00:00,Yes
+C0168,Müşteri 168,B2B,Eğitim,İzmir,Ege,2022-04-17 00:00:00,Yes
+C0169,Müşteri 169,Kurumsal,IT,Antalya,Akdeniz,2021-10-23 00:00:00,Yes
+C0170,Müşteri 170,B2B,Lojistik,Ankara,İç Anadolu,2023-03-02 00:00:00,Yes
+C0171,Müşteri 171,KOBİ,Ofis,Antalya,Akdeniz,2022-03-27 00:00:00,Yes
+C0172,Müşteri 172,KOBİ,Ofis,İzmir,Ege,2024-01-20 00:00:00,No
+C0173,Müşteri 173,KOBİ,Ofis,İstanbul,Marmara,2021-07-26 00:00:00,No
+C0174,Müşteri 174,KOBİ,Eğitim,İstanbul,Marmara,2023-09-21 00:00:00,No
+C0175,Müşteri 175,Kurumsal,Eğitim,İzmir,Ege,2023-01-27 00:00:00,Yes
+C0176,Müşteri 176,Kurumsal,Sağlık,Adana,Akdeniz,2022-11-26 00:00:00,Yes
+C0177,Müşteri 177,B2B,Sağlık,İzmir,Ege,2024-01-06 00:00:00,No
+C0178,Müşteri 178,KOBİ,Lojistik,İzmir,Ege,2023-06-03 00:00:00,Yes
+C0179,Müşteri 179,B2B,Ofis,Ankara,İç Anadolu,2022-05-13 00:00:00,Yes
+C0180,Müşteri 180,Kurumsal,Ofis,Bursa,Marmara,2022-01-03 00:00:00,Yes
+C0181,Müşteri 181,B2B,Sağlık,Ankara,İç Anadolu,2021-02-09 00:00:00,Yes
+C0182,Müşteri 182,KOBİ,Eğitim,İzmir,Ege,2022-01-09 00:00:00,No
+C0183,Müşteri 183,Kurumsal,Sağlık,İzmir,Ege,2022-10-19 00:00:00,Yes
+C0184,Müşteri 184,B2B,IT,Ankara,İç Anadolu,2023-05-15 00:00:00,Yes
+C0185,Müşteri 185,B2B,IT,Bursa,Marmara,2022-06-03 00:00:00,No
+C0186,Müşteri 186,B2B,IT,İzmir,Ege,2021-03-01 00:00:00,Yes
+C0187,Müşteri 187,Kurumsal,IT,Bursa,Marmara,2021-11-25 00:00:00,No
+C0188,Müşteri 188,KOBİ,Sağlık,İstanbul,Marmara,2022-06-14 00:00:00,Yes
+C0189,Müşteri 189,B2B,Ofis,Adana,Akdeniz,2021-03-07 00:00:00,Yes
+C0190,Müşteri 190,Kurumsal,Ofis,Ankara,İç Anadolu,2021-10-07 00:00:00,Yes
+C0191,Müşteri 191,KOBİ,Sağlık,Antalya,Akdeniz,2023-04-03 00:00:00,Yes
+C0192,Müşteri 192,B2B,Ofis,Bursa,Marmara,2023-03-29 00:00:00,Yes
+C0193,Müşteri 193,B2B,Sağlık,İstanbul,Marmara,2023-05-20 00:00:00,Yes
+C0194,Müşteri 194,KOBİ,Sağlık,İstanbul,Marmara,2021-07-18 00:00:00,No
+C0195,Müşteri 195,B2B,IT,Ankara,İç Anadolu,2022-08-07 00:00:00,Yes
+C0196,Müşteri 196,B2B,Lojistik,İstanbul,Marmara,2022-03-07 00:00:00,Yes
+C0197,Müşteri 197,B2B,IT,Ankara,İç Anadolu,2024-01-12 00:00:00,Yes
+C0198,Müşteri 198,KOBİ,Ofis,Adana,Akdeniz,2021-08-08 00:00:00,Yes
+C0199,Müşteri 199,B2B,Lojistik,Antalya,Akdeniz,2023-07-21 00:00:00,Yes
+C0200,Müşteri 200,KOBİ,IT,İzmir,Ege,2022-03-05 00:00:00,No
+C0201,Müşteri 201,Kurumsal,Eğitim,İzmir,Ege,2022-11-10 00:00:00,Yes
+C0202,Müşteri 202,KOBİ,Ofis,Bursa,Marmara,2022-03-16 00:00:00,Yes
+C0203,Müşteri 203,KOBİ,Eğitim,Antalya,Akdeniz,2023-12-04 00:00:00,No
+C0204,Müşteri 204,Kurumsal,Eğitim,Adana,Akdeniz,2023-04-19 00:00:00,No
+C0205,Müşteri 205,Kurumsal,Eğitim,İzmir,Ege,2021-01-28 00:00:00,Yes
+C0206,Müşteri 206,B2B,IT,Ankara,İç Anadolu,2024-04-10 00:00:00,Yes
+C0207,Müşteri 207,Kurumsal,Eğitim,Ankara,İç Anadolu,2021-07-19 00:00:00,Yes
+C0208,Müşteri 208,B2B,IT,Bursa,Marmara,2023-02-10 00:00:00,Yes
+C0209,Müşteri 209,B2B,IT,Bursa,Marmara,2021-08-05 00:00:00,Yes
+C0210,Müşteri 210,B2B,Lojistik,Adana,Akdeniz,2022-04-22 00:00:00,Yes
+C0211,Müşteri 211,B2B,Lojistik,Antalya,Akdeniz,2024-03-12 00:00:00,Yes
+C0212,Müşteri 212,B2B,IT,İstanbul,Marmara,2022-11-04 00:00:00,Yes
+C0213,Müşteri 213,KOBİ,Lojistik,Ankara,İç Anadolu,2023-07-05 00:00:00,Yes
+C0214,Müşteri 214,B2B,Sağlık,Bursa,Marmara,2023-10-25 00:00:00,Yes
+C0215,Müşteri 215,B2B,Eğitim,Bursa,Marmara,2022-09-05 00:00:00,Yes
+C0216,Müşteri 216,Kurumsal,Sağlık,Bursa,Marmara,2023-03-02 00:00:00,No
+C0217,Müşteri 217,KOBİ,Sağlık,Bursa,Marmara,2022-06-19 00:00:00,Yes
+C0218,Müşteri 218,KOBİ,Ofis,Bursa,Marmara,2022-04-29 00:00:00,Yes
+C0219,Müşteri 219,B2B,Lojistik,İzmir,Ege,2021-02-14 00:00:00,Yes
+C0220,Müşteri 220,KOBİ,IT,Bursa,Marmara,2021-08-05 00:00:00,Yes
+C0221,Müşteri 221,B2B,IT,Adana,Akdeniz,2022-09-24 00:00:00,No
+C0222,Müşteri 222,Kurumsal,Ofis,Ankara,İç Anadolu,2022-10-15 00:00:00,No
+C0223,Müşteri 223,B2B,Sağlık,İstanbul,Marmara,2022-12-08 00:00:00,Yes
+C0224,Müşteri 224,KOBİ,IT,Antalya,Akdeniz,2023-07-10 00:00:00,Yes
+C0225,Müşteri 225,B2B,Eğitim,Ankara,İç Anadolu,2022-08-21 00:00:00,No
+C0226,Müşteri 226,KOBİ,Lojistik,Antalya,Akdeniz,2022-05-07 00:00:00,Yes
+C0227,Müşteri 227,B2B,Eğitim,Antalya,Akdeniz,2022-02-09 00:00:00,Yes
+C0228,Müşteri 228,Kurumsal,IT,Adana,Akdeniz,2023-10-01 00:00:00,Yes
+C0229,Müşteri 229,Kurumsal,IT,İstanbul,Marmara,2023-08-28 00:00:00,Yes
+C0230,Müşteri 230,B2B,Ofis,Ankara,İç Anadolu,2024-04-05 00:00:00,Yes
+C0231,Müşteri 231,KOBİ,Sağlık,Antalya,Akdeniz,2022-10-03 00:00:00,Yes
+C0232,Müşteri 232,B2B,Sağlık,Antalya,Akdeniz,2023-10-17 00:00:00,Yes
+C0233,Müşteri 233,B2B,IT,Bursa,Marmara,2023-01-16 00:00:00,Yes
+C0234,Müşteri 234,Kurumsal,Ofis,Ankara,İç Anadolu,2021-10-28 00:00:00,No
+C0235,Müşteri 235,B2B,Eğitim,İzmir,Ege,2021-04-19 00:00:00,Yes
+C0236,Müşteri 236,KOBİ,Lojistik,İzmir,Ege,2021-08-12 00:00:00,Yes
+C0237,Müşteri 237,B2B,IT,İzmir,Ege,2022-11-11 00:00:00,Yes
+C0238,Müşteri 238,KOBİ,IT,Adana,Akdeniz,2023-07-04 00:00:00,Yes
+C0239,Müşteri 239,KOBİ,IT,Antalya,Akdeniz,2021-03-09 00:00:00,No
+C0240,Müşteri 240,Kurumsal,Ofis,Ankara,İç Anadolu,2024-03-25 00:00:00,Yes
+C0241,Müşteri 241,Kurumsal,Ofis,Antalya,Akdeniz,2022-02-21 00:00:00,Yes
+C0242,Müşteri 242,Kurumsal,Eğitim,Adana,Akdeniz,2022-06-26 00:00:00,Yes
+C0243,Müşteri 243,B2B,IT,Bursa,Marmara,2022-10-17 00:00:00,Yes
+C0244,Müşteri 244,KOBİ,Lojistik,İzmir,Ege,2023-07-03 00:00:00,Yes
+C0245,Müşteri 245,Kurumsal,Lojistik,Ankara,İç Anadolu,2023-12-08 00:00:00,Yes
+C0246,Müşteri 246,Kurumsal,Eğitim,Bursa,Marmara,2023-01-03 00:00:00,Yes
+C0247,Müşteri 247,KOBİ,Ofis,Ankara,İç Anadolu,2022-09-01 00:00:00,Yes
+C0248,Müşteri 248,Kurumsal,IT,İzmir,Ege,2023-09-07 00:00:00,Yes
+C0249,Müşteri 249,Kurumsal,Lojistik,Bursa,Marmara,2021-12-13 00:00:00,Yes
+C0250,Müşteri 250,B2B,Lojistik,İstanbul,Marmara,2022-08-08 00:00:00,Yes
+C0251,Müşteri 251,Kurumsal,Lojistik,İstanbul,Marmara,2022-08-10 00:00:00,Yes
+C0252,Müşteri 252,B2B,Lojistik,Ankara,İç Anadolu,2022-12-20 00:00:00,Yes
+C0253,Müşteri 253,B2B,Sağlık,İzmir,Ege,2021-08-22 00:00:00,Yes
+C0254,Müşteri 254,KOBİ,Ofis,Adana,Akdeniz,2022-01-22 00:00:00,Yes
+C0255,Müşteri 255,Kurumsal,Ofis,Bursa,Marmara,2024-04-07 00:00:00,Yes
+C0256,Müşteri 256,KOBİ,IT,Antalya,Akdeniz,2023-02-18 00:00:00,Yes
+C0257,Müşteri 257,B2B,IT,Adana,Akdeniz,2023-12-28 00:00:00,Yes
+C0258,Müşteri 258,B2B,Eğitim,Bursa,Marmara,2023-04-25 00:00:00,Yes
+C0259,Müşteri 259,B2B,Eğitim,İzmir,Ege,2023-11-14 00:00:00,No
+C0260,Müşteri 260,KOBİ,Eğitim,Adana,Akdeniz,2022-05-31 00:00:00,No
+C0261,Müşteri 261,Kurumsal,Eğitim,İstanbul,Marmara,2024-04-15 00:00:00,No
+C0262,Müşteri 262,Kurumsal,Eğitim,Ankara,İç Anadolu,2021-11-19 00:00:00,Yes
+C0263,Müşteri 263,KOBİ,IT,Adana,Akdeniz,2023-08-17 00:00:00,Yes
+C0264,Müşteri 264,KOBİ,Eğitim,İzmir,Ege,2021-04-04 00:00:00,Yes
+C0265,Müşteri 265,KOBİ,Lojistik,Bursa,Marmara,2022-05-21 00:00:00,No
+C0266,Müşteri 266,B2B,Ofis,Bursa,Marmara,2023-04-24 00:00:00,Yes
+C0267,Müşteri 267,Kurumsal,Ofis,Ankara,İç Anadolu,2022-04-25 00:00:00,Yes
+C0268,Müşteri 268,B2B,Lojistik,Antalya,Akdeniz,2024-03-01 00:00:00,Yes
+C0269,Müşteri 269,Kurumsal,Ofis,Antalya,Akdeniz,2024-03-05 00:00:00,Yes
+C0270,Müşteri 270,B2B,Sağlık,Ankara,İç Anadolu,2023-04-14 00:00:00,Yes
+C0271,Müşteri 271,B2B,IT,İstanbul,Marmara,2022-04-12 00:00:00,Yes
+C0272,Müşteri 272,KOBİ,Sağlık,İzmir,Ege,2021-04-01 00:00:00,Yes
+C0273,Müşteri 273,B2B,Sağlık,Ankara,İç Anadolu,2021-09-24 00:00:00,Yes
+C0274,Müşteri 274,B2B,IT,İzmir,Ege,2021-09-18 00:00:00,Yes
+C0275,Müşteri 275,Kurumsal,Lojistik,Bursa,Marmara,2021-12-25 00:00:00,Yes
+C0276,Müşteri 276,Kurumsal,Ofis,İstanbul,Marmara,2021-09-11 00:00:00,Yes
+C0277,Müşteri 277,B2B,Lojistik,Bursa,Marmara,2022-10-01 00:00:00,Yes
+C0278,Müşteri 278,KOBİ,IT,Adana,Akdeniz,2022-05-28 00:00:00,Yes
+C0279,Müşteri 279,Kurumsal,IT,Ankara,İç Anadolu,2023-01-02 00:00:00,Yes
+C0280,Müşteri 280,Kurumsal,Eğitim,Adana,Akdeniz,2022-12-19 00:00:00,No
+C0281,Müşteri 281,B2B,Sağlık,Antalya,Akdeniz,2021-09-03 00:00:00,No
+C0282,Müşteri 282,KOBİ,Sağlık,İzmir,Ege,2021-01-02 00:00:00,Yes
+C0283,Müşteri 283,Kurumsal,Lojistik,Ankara,İç Anadolu,2023-03-21 00:00:00,Yes
+C0284,Müşteri 284,Kurumsal,Ofis,Adana,Akdeniz,2023-11-23 00:00:00,No
+C0285,Müşteri 285,KOBİ,Lojistik,Bursa,Marmara,2023-01-22 00:00:00,Yes
+C0286,Müşteri 286,Kurumsal,IT,İzmir,Ege,2022-11-23 00:00:00,Yes
+C0287,Müşteri 287,B2B,Eğitim,Adana,Akdeniz,2022-12-11 00:00:00,Yes
+C0288,Müşteri 288,KOBİ,IT,Ankara,İç Anadolu,2024-03-09 00:00:00,No
+C0289,Müşteri 289,KOBİ,IT,İstanbul,Marmara,2022-10-22 00:00:00,Yes
+C0290,Müşteri 290,KOBİ,Sağlık,Adana,Akdeniz,2021-07-05 00:00:00,No
+C0291,Müşteri 291,Kurumsal,Lojistik,İstanbul,Marmara,2022-12-14 00:00:00,Yes
+C0292,Müşteri 292,B2B,IT,İzmir,Ege,2021-04-28 00:00:00,Yes
+C0293,Müşteri 293,Kurumsal,Eğitim,Antalya,Akdeniz,2022-02-26 00:00:00,Yes
+C0294,Müşteri 294,Kurumsal,Eğitim,Antalya,Akdeniz,2023-06-04 00:00:00,Yes
+C0295,Müşteri 295,B2B,Ofis,İzmir,Ege,2021-12-04 00:00:00,No
+C0296,Müşteri 296,B2B,Eğitim,Adana,Akdeniz,2023-01-11 00:00:00,Yes
+C0297,Müşteri 297,Kurumsal,Ofis,Antalya,Akdeniz,2021-10-28 00:00:00,Yes
+C0298,Müşteri 298,KOBİ,Lojistik,İstanbul,Marmara,2023-07-15 00:00:00,Yes
+C0299,Müşteri 299,Kurumsal,Sağlık,Bursa,Marmara,2024-01-20 00:00:00,Yes
+C0300,Müşteri 300,Kurumsal,IT,İstanbul,Marmara,2022-07-17 00:00:00,Yes
+C0301,Müşteri 301,KOBİ,Lojistik,İstanbul,Marmara,2022-10-25 00:00:00,Yes
+C0302,Müşteri 302,B2B,Eğitim,Antalya,Akdeniz,2021-02-09 00:00:00,No
+C0303,Müşteri 303,B2B,Lojistik,İzmir,Ege,2021-11-16 00:00:00,No
+C0304,Müşteri 304,Kurumsal,Eğitim,Bursa,Marmara,2022-05-05 00:00:00,No
+C0305,Müşteri 305,Kurumsal,IT,İzmir,Ege,2022-02-03 00:00:00,Yes
+C0306,Müşteri 306,Kurumsal,Sağlık,Bursa,Marmara,2021-02-26 00:00:00,No
+C0307,Müşteri 307,KOBİ,IT,Antalya,Akdeniz,2023-09-14 00:00:00,Yes
+C0308,Müşteri 308,KOBİ,Eğitim,Ankara,İç Anadolu,2021-09-01 00:00:00,Yes
+C0309,Müşteri 309,B2B,Eğitim,Antalya,Akdeniz,2021-08-01 00:00:00,No
+C0310,Müşteri 310,B2B,Ofis,Antalya,Akdeniz,2023-06-20 00:00:00,No
+C0311,Müşteri 311,Kurumsal,Sağlık,Antalya,Akdeniz,2023-11-05 00:00:00,Yes
+C0312,Müşteri 312,B2B,Lojistik,İstanbul,Marmara,2021-04-24 00:00:00,No
+C0313,Müşteri 313,KOBİ,IT,Antalya,Akdeniz,2023-03-02 00:00:00,No
+C0314,Müşteri 314,KOBİ,Ofis,Bursa,Marmara,2023-09-14 00:00:00,No
+C0315,Müşteri 315,Kurumsal,Sağlık,Adana,Akdeniz,2021-01-15 00:00:00,Yes
+C0316,Müşteri 316,KOBİ,Lojistik,Adana,Akdeniz,2021-01-17 00:00:00,Yes
+C0317,Müşteri 317,B2B,Sağlık,İstanbul,Marmara,2021-07-05 00:00:00,No
+C0318,Müşteri 318,B2B,Sağlık,İstanbul,Marmara,2022-10-21 00:00:00,Yes
+C0319,Müşteri 319,KOBİ,Ofis,Antalya,Akdeniz,2024-01-30 00:00:00,Yes
+C0320,Müşteri 320,Kurumsal,Eğitim,Bursa,Marmara,2023-05-15 00:00:00,Yes
+C0321,Müşteri 321,KOBİ,Lojistik,Bursa,Marmara,2021-05-15 00:00:00,No
+C0322,Müşteri 322,KOBİ,Ofis,Ankara,İç Anadolu,2021-10-10 00:00:00,Yes
+C0323,Müşteri 323,B2B,Ofis,İzmir,Ege,2023-04-28 00:00:00,Yes
+C0324,Müşteri 324,KOBİ,Lojistik,Antalya,Akdeniz,2024-04-09 00:00:00,Yes
+C0325,Müşteri 325,Kurumsal,IT,Adana,Akdeniz,2023-03-19 00:00:00,Yes
+C0326,Müşteri 326,Kurumsal,Eğitim,İstanbul,Marmara,2023-03-14 00:00:00,No
+C0327,Müşteri 327,KOBİ,Sağlık,Adana,Akdeniz,2023-02-26 00:00:00,Yes
+C0328,Müşteri 328,Kurumsal,IT,İstanbul,Marmara,2023-12-23 00:00:00,Yes
+C0329,Müşteri 329,B2B,Lojistik,Antalya,Akdeniz,2021-08-12 00:00:00,No
+C0330,Müşteri 330,KOBİ,Ofis,Adana,Akdeniz,2023-09-13 00:00:00,Yes
+C0331,Müşteri 331,KOBİ,Lojistik,Ankara,İç Anadolu,2024-03-01 00:00:00,Yes
+C0332,Müşteri 332,KOBİ,Lojistik,Antalya,Akdeniz,2022-09-11 00:00:00,Yes
+C0333,Müşteri 333,Kurumsal,Lojistik,Adana,Akdeniz,2022-01-31 00:00:00,Yes
+C0334,Müşteri 334,KOBİ,Lojistik,Antalya,Akdeniz,2022-05-17 00:00:00,Yes
+C0335,Müşteri 335,B2B,IT,Adana,Akdeniz,2021-02-11 00:00:00,Yes
+C0336,Müşteri 336,Kurumsal,Ofis,Bursa,Marmara,2023-12-25 00:00:00,No
+C0337,Müşteri 337,Kurumsal,Ofis,Adana,Akdeniz,2024-02-08 00:00:00,Yes
+C0338,Müşteri 338,KOBİ,Ofis,Adana,Akdeniz,2021-10-07 00:00:00,Yes
+C0339,Müşteri 339,Kurumsal,IT,Bursa,Marmara,2023-12-07 00:00:00,Yes
+C0340,Müşteri 340,KOBİ,Sağlık,İzmir,Ege,2022-02-02 00:00:00,Yes
+C0341,Müşteri 341,KOBİ,Sağlık,İstanbul,Marmara,2021-04-04 00:00:00,Yes
+C0342,Müşteri 342,Kurumsal,Sağlık,Ankara,İç Anadolu,2022-02-10 00:00:00,Yes
+C0343,Müşteri 343,Kurumsal,Lojistik,Adana,Akdeniz,2022-06-07 00:00:00,Yes
+C0344,Müşteri 344,Kurumsal,IT,İstanbul,Marmara,2021-04-19 00:00:00,Yes
+C0345,Müşteri 345,KOBİ,IT,Ankara,İç Anadolu,2022-04-13 00:00:00,Yes
+C0346,Müşteri 346,B2B,Lojistik,İzmir,Ege,2021-09-05 00:00:00,Yes
+C0347,Müşteri 347,KOBİ,IT,Adana,Akdeniz,2021-05-05 00:00:00,Yes
+C0348,Müşteri 348,B2B,Eğitim,Antalya,Akdeniz,2022-04-10 00:00:00,Yes
+C0349,Müşteri 349,B2B,Sağlık,Adana,Akdeniz,2023-07-18 00:00:00,Yes
+C0350,Müşteri 350,KOBİ,Ofis,Antalya,Akdeniz,2021-04-03 00:00:00,Yes
+C0351,Müşteri 351,Kurumsal,Lojistik,Bursa,Marmara,2022-05-28 00:00:00,Yes
+C0352,Müşteri 352,Kurumsal,Ofis,Ankara,İç Anadolu,2023-01-31 00:00:00,Yes
+C0353,Müşteri 353,B2B,Sağlık,Adana,Akdeniz,2022-07-25 00:00:00,Yes
+C0354,Müşteri 354,Kurumsal,Eğitim,Bursa,Marmara,2021-06-16 00:00:00,Yes
+C0355,Müşteri 355,B2B,Lojistik,Adana,Akdeniz,2023-02-02 00:00:00,No
+C0356,Müşteri 356,B2B,Sağlık,İzmir,Ege,2021-06-24 00:00:00,Yes
+C0357,Müşteri 357,B2B,Eğitim,Adana,Akdeniz,2021-12-23 00:00:00,Yes
+C0358,Müşteri 358,B2B,Sağlık,Bursa,Marmara,2023-06-22 00:00:00,Yes
+C0359,Müşteri 359,Kurumsal,Lojistik,Adana,Akdeniz,2021-03-29 00:00:00,No
+C0360,Müşteri 360,KOBİ,Sağlık,Bursa,Marmara,2021-08-03 00:00:00,Yes
+C0361,Müşteri 361,B2B,IT,İzmir,Ege,2022-09-24 00:00:00,Yes
+C0362,Müşteri 362,KOBİ,Ofis,Adana,Akdeniz,2021-11-15 00:00:00,Yes
+C0363,Müşteri 363,Kurumsal,Eğitim,Adana,Akdeniz,2021-10-13 00:00:00,Yes
+C0364,Müşteri 364,KOBİ,Lojistik,Ankara,İç Anadolu,2024-03-18 00:00:00,Yes
+C0365,Müşteri 365,KOBİ,IT,Adana,Akdeniz,2021-11-30 00:00:00,No
+C0366,Müşteri 366,B2B,Lojistik,Ankara,İç Anadolu,2023-11-23 00:00:00,Yes
+C0367,Müşteri 367,Kurumsal,Sağlık,İstanbul,Marmara,2022-07-16 00:00:00,Yes
+C0368,Müşteri 368,KOBİ,Sağlık,İzmir,Ege,2023-01-17 00:00:00,No
+C0369,Müşteri 369,Kurumsal,IT,Bursa,Marmara,2022-10-19 00:00:00,Yes
+C0370,Müşteri 370,Kurumsal,IT,Adana,Akdeniz,2021-11-08 00:00:00,Yes
+C0371,Müşteri 371,KOBİ,Ofis,Ankara,İç Anadolu,2021-01-21 00:00:00,No
+C0372,Müşteri 372,KOBİ,Ofis,Bursa,Marmara,2023-12-15 00:00:00,Yes
+C0373,Müşteri 373,Kurumsal,Eğitim,İzmir,Ege,2022-12-21 00:00:00,Yes
+C0374,Müşteri 374,KOBİ,Sağlık,İzmir,Ege,2024-02-29 00:00:00,Yes
+C0375,Müşteri 375,Kurumsal,Eğitim,Bursa,Marmara,2023-08-26 00:00:00,Yes
+C0376,Müşteri 376,Kurumsal,Lojistik,Ankara,İç Anadolu,2023-01-15 00:00:00,Yes
+C0377,Müşteri 377,B2B,Sağlık,İzmir,Ege,2023-04-19 00:00:00,Yes
+C0378,Müşteri 378,KOBİ,Sağlık,İstanbul,Marmara,2021-08-15 00:00:00,Yes
+C0379,Müşteri 379,KOBİ,Lojistik,Antalya,Akdeniz,2022-07-07 00:00:00,Yes
+C0380,Müşteri 380,Kurumsal,IT,Antalya,Akdeniz,2023-09-10 00:00:00,No
+C0381,Müşteri 381,B2B,IT,Ankara,İç Anadolu,2022-11-07 00:00:00,No
+C0382,Müşteri 382,Kurumsal,Sağlık,Adana,Akdeniz,2021-04-06 00:00:00,Yes
+C0383,Müşteri 383,B2B,Eğitim,Ankara,İç Anadolu,2023-06-18 00:00:00,Yes
+C0384,Müşteri 384,Kurumsal,Sağlık,Antalya,Akdeniz,2022-09-07 00:00:00,Yes
+C0385,Müşteri 385,Kurumsal,Sağlık,Ankara,İç Anadolu,2022-07-19 00:00:00,Yes
+C0386,Müşteri 386,Kurumsal,IT,Bursa,Marmara,2023-03-30 00:00:00,Yes
+C0387,Müşteri 387,B2B,IT,İstanbul,Marmara,2022-03-26 00:00:00,No
+C0388,Müşteri 388,Kurumsal,Sağlık,Antalya,Akdeniz,2022-11-23 00:00:00,Yes
+C0389,Müşteri 389,Kurumsal,Eğitim,Adana,Akdeniz,2021-10-04 00:00:00,Yes
+C0390,Müşteri 390,Kurumsal,Eğitim,İstanbul,Marmara,2021-09-12 00:00:00,No
+C0391,Müşteri 391,KOBİ,IT,İstanbul,Marmara,2022-09-04 00:00:00,Yes
+C0392,Müşteri 392,KOBİ,Eğitim,İstanbul,Marmara,2021-08-15 00:00:00,Yes
+C0393,Müşteri 393,Kurumsal,Eğitim,Adana,Akdeniz,2021-03-23 00:00:00,Yes
+C0394,Müşteri 394,B2B,Lojistik,İstanbul,Marmara,2023-03-22 00:00:00,Yes
+C0395,Müşteri 395,B2B,Lojistik,Ankara,İç Anadolu,2021-05-09 00:00:00,Yes
+C0396,Müşteri 396,KOBİ,Eğitim,İzmir,Ege,2022-05-09 00:00:00,Yes
+C0397,Müşteri 397,KOBİ,Eğitim,Bursa,Marmara,2021-03-19 00:00:00,Yes
+C0398,Müşteri 398,B2B,Ofis,İstanbul,Marmara,2021-02-21 00:00:00,No
+C0399,Müşteri 399,Kurumsal,Lojistik,Adana,Akdeniz,2021-09-22 00:00:00,No
+C0400,Müşteri 400,B2B,Eğitim,Adana,Akdeniz,2023-01-20 00:00:00,Yes
