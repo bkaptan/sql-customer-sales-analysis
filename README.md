@@ -155,27 +155,6 @@ Projede toplam **60+ SQL sorgusu** 4 farklı departman perspektifinden hazırlan
 
 ---
 
-## 💡 Key Insights & Öğrenilenler
-
-Bu proje boyunca aşağıdaki analitik beceriler geliştirilmiştir:
-
-✅ **Teknik SQL Yetkinlikleri:**
-- CTEs ve window functions ile karmaşık sorguların basitleştirilmesi
-- Join stratejilerinin optimizasyonu
-- Performance-aware query yazımı
-
-✅ **Analitik Düşünme:**
-- İş problemlerini SQL sorgularına çevirme
-- Veriyi anlamlı segmentlere ayırma
-- Edge case'leri düşünme (NULL kontrolü, tarih filtreleri)
-
-✅ **İş Anlayışı:**
-- Departman bazlı farklı KPI ihtiyaçlarını anlama
-- Self-service analytics yaklaşımı
-- Stakeholder perspektifinden soru formüle etme
-
----
-
 ## 🛠️ Kullanılan Araçlar & Teknolojiler
 
 - **SQL Server (T-SQL)**
