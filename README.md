@@ -285,10 +285,9 @@ where r1.row_num = 1 and r2.row_num = 2
 ---
 ## 📫 Contact & Portfolio
 
-- **LinkedIn**: [https://www.linkedin.com/in/burak-kaptan/]
-- **GitHub**: [Your GitHub Profile]
-- **Portfolio Website**: [https://burak-kaptan.super.site/]
+- **LinkedIn**: linkedin.com/in/burak-kaptan/
+- **GitHub**: github.com/bkaptan
+- **Portfolio Website**: burak-kaptan.super.site/
 
 ---
 
-**⭐ If you find this project helpful, please give it a star!**
