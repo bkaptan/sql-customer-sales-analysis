@@ -154,6 +154,7 @@ Projede toplam **60+ SQL sorgusu** 4 farklı departman perspektifinden hazırlan
 - Aynı gün birden fazla sipariş veren müşteriler
 - Zaman serisi analizleri (LAG/LEAD kullanımı)
 
+![images](images/66.png)
 ---
 
 ## 🛠️ Kullanılan Araçlar & Teknolojiler
