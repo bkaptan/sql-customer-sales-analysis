@@ -233,12 +233,61 @@ FROM MonthlyNewCustomers
 ORDER BY Year, Month
 ```
 
+### Örnek 3: Şehir bazında müşteri başına düşen ortalama gelir
+```sql
+with CityRevenue as ( -- önce her şehirdeki toplam NetSales'i bulurum:
+	select
+		c.City,
+		SUM(s.NetSales) as TotalRevenue
+	from dbo.Sales s
+	inner join dbo.Customers c
+		on c.CustomerID = s.CustomerID
+	group by c.City
+),
+CityCustomerCount as ( -- sonra her şehirdeki toplam müşteri sayısını bulurum:
+	select 
+		City,
+		COUNT(DISTINCT CustomerID) as CustomerCount
+	from dbo.Customers
+	group by City
+)
+-- sonra da bu CTE'leri oranlarım:
+select
+	c1.City,
+	c2.CustomerCount,
+	c1.TotalRevenue,
+	(c1.TotalRevenue * 1.0 / c2.CustomerCount)  as RevenuePerCustomer
+from CityRevenue c1
+inner join CityCustomerCount c2
+	on c1.City = c2.City
+```
+
+### Örnek 4: İlk alışverişten sonra tekrar alışveriş yapma süresi analizi
+```sql
+with RankedOrders as (  -- her müşterinin tüm alışverilerini sıraya koyarım, sonra da row_num 1 ve 2 olanlar arasında geçen süreyi kontrol ederim:
+	select
+		CustomerID,
+		OrderDate,
+		ROW_NUMBER() OVER(PARTITION BY CustomerID ORDER BY OrderDate ASC) AS row_num
+	from dbo.Sales
+)
+select
+	r1.CustomerID,
+	r1.OrderDate as FirstOrder,
+	r2.OrderDate as SecondOrder,
+	DATEDIFF(DAY, r1.OrderDate, r2.OrderDate) as DayBetween
+from RankedOrders r1
+inner join RankedOrders r2
+	on r1.CustomerID = r2.CustomerID
+where r1.row_num = 1 and r2.row_num = 2
+```
+
 ---
 ## 📫 Contact & Portfolio
 
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: [https://www.linkedin.com/in/burak-kaptan/]
 - **GitHub**: [Your GitHub Profile]
-- **Portfolio**: [Your Portfolio Website]
+- **Portfolio Website**: [https://burak-kaptan.super.site/]
 
 ---
 
